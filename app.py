@@ -69,7 +69,7 @@ HTML = """
 <html>
 <head>
   <meta charset="utf-8">
-  <title>Lightweight Coin Counter - Back Camera</title>
+  <title>Coin Counter</title>
   <style>
     body{font-family: Arial, Helvetica, sans-serif; margin:20px}
     #preview{border:1px solid #ccc}
