@@ -81,7 +81,7 @@ HTML = """
   </style>
 </head>
 <body>
-  <h2>Lightweight Coin Counter (Web) - Back Camera Preferred</h2>
+  <h2>Coin Counter</h2>
   <div>
     <input type="file" id="fileInput" accept="image/*">
     <button id="detectBtn">Detect</button>
